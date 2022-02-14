@@ -1,0 +1,13 @@
+
+\
+java:S1854"ARemove this useless assignment to local variable "priceShipping".(œŸùÓüÿÿÿÿ
+W
+java:S1854"ARemove this useless assignment to local variable "priceDiscount".(¤İ¨Ù
+W
+java:S1854"ARemove this useless assignment to local variable "priceQuantity".(ÈÃèá
+H
+java:S1481"2Remove this unused "priceQuantity" local variable.(ÈÃèá
+H
+java:S1481"2Remove this unused "priceDiscount" local variable.(¤İ¨Ù
+M
+java:S1481"2Remove this unused "priceShipping" local variable.(œŸùÓüÿÿÿÿ
